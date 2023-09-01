@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script>
+    // String methods
+    var text = "Hello, world!";
+    console.log(text.length);
+    console.log(text.toUpperCase());
+
+    // Number methods
+    var number = 42.456;
+    console.log(number.toFixed(2));
+    console.log(Number.isInteger(number));
+
+    // Array methods
+    var fruits = ["apple", "banana", "orange"];
+    console.log(fruits.join(", "));
+    console.log(fruits.push("grape"));
+    
+    // Date methods
+    var currentDate = new Date();
+    console.log(currentDate.getFullYear());
+    console.log(currentDate.getMonth());
+
+    // Function methods
+    function greet(name) {
+      console.log("Hello, " + name + "!");
+    }
+    greet("Alice");
+  </script>
+</head>
+<body>
+  <p>Check the browser console for outputs.</p>
+</body>
+</html>
