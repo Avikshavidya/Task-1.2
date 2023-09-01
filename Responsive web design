@@ -14,7 +14,7 @@
 <body>
   <div class="container">
     <h1>Responsive Web Design</h1>
-    <p>This is a sample webpage demonstrating responsive design principles.</p>
+    <p>This is a webpage demonstrating responsive design principles.</p>
   </div>
 </body>
 </html>
